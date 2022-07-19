@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* .container {
+    width: 870px;
+    height: 679px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.players {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.player img {
+    height: 35px;
+    width: 35px;
+} */
